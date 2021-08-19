@@ -1,0 +1,30 @@
+.jumbotron {
+color: green;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding-left: 80px;
+
+}
+
+#metaPanel {
+font-size: smaller;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: green;
+
+}
+
+#metaPanel .panel-header{
+text-align: center;
+
+}
+
+#selDataset {
+padding: 20px;
+color: black;
+
+}
+
+#samplePanel {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: green;
+}
